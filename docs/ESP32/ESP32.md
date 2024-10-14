@@ -4,8 +4,6 @@
 
 ## 1. Projects
 
-### fjhghj
-
 [Code Download](./Codes.zip)
 
 ![a67](./media/a67.png)
@@ -60,15 +58,15 @@ After powering on, it takes about 0.5 seconds for stabilization. During this per
 
 #### 1.5 Test Code
 
- In ![a1](./media/a1.png), add a ![a2](./media/a2.png).
- In ![a8](./media/a8.png), add ![a9](./media/a9.png) and set baud rate to `9600`.
- In ![a1](./media/a1.png), put ![a5](./media/a5.png) under ![a9](./media/a9.png).
+1. In ![a1](./media/a1.png), add a ![a2](./media/a2.png).
+2. In ![a8](./media/a8.png), add ![a9](./media/a9.png) and set baud rate to `9600`.
+3. In ![a1](./media/a1.png), put ![a5](./media/a5.png) under ![a9](./media/a9.png).
 
 ![1-3](./media/1-3.png)
 
- In ![a8](./media/a8.png), drag ![a10](./media/a10.png) and put it into ![a5](./media/a5.png).
- In ![a7](./media/a7.png), add ![a18](./media/a18.png) and set pin to IO19, put it into the primt box of ![a10](./media/a10.png).
- For convenience, in ![a1](./media/a1.png), add a ![a47](./media/a47.png) and set delay to 0.3S.
+4. In ![a8](./media/a8.png), drag ![a10](./media/a10.png) and put it into ![a5](./media/a5.png).
+5. In ![a7](./media/a7.png), add ![a18](./media/a18.png) and set pin to IO19, put it into the primt box of ![a10](./media/a10.png).
+6. For convenience, in ![a1](./media/a1.png), add a ![a47](./media/a47.png) and set delay to 0.3S.
 
 **Complete code:**
 
@@ -86,16 +84,16 @@ Click ![a11](./media/a11.png) to show the printing box.
 
 Capacitive touch sensor control RGB LED matrix.
 
- In ![a1](./media/a1.png), add a ![a2](./media/a2.png).
- In ![a3](./media/a3.png), add ![a4](./media/a4.png) under ![a2](./media/a2.png).
- In ![a1](./media/a1.png), put ![a5](./media/a5.png) under ![a4](./media/a4.png).
- In ![a1](./media/a1.png), put ![a6](./media/a6.png) into ![a5](./media/a5.png).
- In ![a7](./media/a7.png), add ![a18](./media/a18.png) and set pin to IO19, and put it into the condition box of ![a6](./media/a6.png).
+1. In ![a1](./media/a1.png), add a ![a2](./media/a2.png).
+2. In ![a3](./media/a3.png), add ![a4](./media/a4.png) under ![a2](./media/a2.png).
+3. In ![a1](./media/a1.png), put ![a5](./media/a5.png) under ![a4](./media/a4.png).
+4. In ![a1](./media/a1.png), put ![a6](./media/a6.png) into ![a5](./media/a5.png).
+5. In ![a7](./media/a7.png), add ![a18](./media/a18.png) and set pin to IO19, and put it into the condition box of ![a6](./media/a6.png).
 
 ![1-6](./media/1-6.png)
 
- In ![a3](./media/a3.png), add a ![a12](./media/a12.png), click ![a13](./media/a13.png) to set the color to red ![a14](./media/a14.png). Click ![a15](./media/a15.png) to change it to ![a16](./media/a16.png). Put it into “then” of ![a6](./media/a6.png).
- In ![a3](./media/a3.png), add a ![a12](./media/a12.png), click ![a13](./media/a13.png) to set the color to red ![a14](./media/a14.png). Set the display icon to ![a15](./media/a15.png). Put it into the “else” of ![a6](./media/a6.png).
+6. In ![a3](./media/a3.png), add a ![a12](./media/a12.png), click ![a13](./media/a13.png) to set the color to red ![a14](./media/a14.png). Click ![a15](./media/a15.png) to change it to ![a16](./media/a16.png). Put it into “then” of ![a6](./media/a6.png).
+7. In ![a3](./media/a3.png), add a ![a12](./media/a12.png), click ![a13](./media/a13.png) to set the color to red ![a14](./media/a14.png). Set the display icon to ![a15](./media/a15.png). Put it into the “else” of ![a6](./media/a6.png).
 
 
 
@@ -146,30 +144,30 @@ When it is used as a variable resistor, it is recommended to use as a voltage di
 
 **Test Code**
 
- In ![a1](./media/a1.png), add a ![a2](./media/a2.png).
- In ![a8](./media/a8.png), add ![a9](./media/a9.png) and set the baud rate to `9600`.
- In ![a1](./media/a1.png), put ![a5](./media/a5.png) under ![a9](./media/a9.png).
+1. In ![a1](./media/a1.png), add a ![a2](./media/a2.png).
+2. In ![a8](./media/a8.png), add ![a9](./media/a9.png) and set the baud rate to `9600`.
+3. In ![a1](./media/a1.png), put ![a5](./media/a5.png) under ![a9](./media/a9.png).
 
 ![1-3](./media/1-3.png)
 
- In ![a8](./media/a8.png), drag ![a10](./media/a10.png) and set print message to “X:” and mode to `no-warp`, and put it into ![a5](./media/a5.png).
- In ![a8](./media/a8.png), drag![a10](./media/a10.png) and set mode to `no-warp`, and put it into ![](./media/a5.png).
- In ![a7](./media/a7.png), drag ![a19](./media/a19.png) and set pin to `IO26`, and put it into the print box of ![a58](./media/a58.png).
+4. In ![a8](./media/a8.png), drag ![a10](./media/a10.png) and set print message to “X:” and mode to `no-warp`, and put it into ![a5](./media/a5.png).
+5. In ![a8](./media/a8.png), drag![a10](./media/a10.png) and set mode to `no-warp`, and put it into ![](./media/a5.png).
+6. In ![a7](./media/a7.png), drag ![a19](./media/a19.png) and set pin to `IO26`, and put it into the print box of ![a58](./media/a58.png).
 
 ![2-4](./media/2-4.png)
 
- Put mouse on ![2-5](./media/2-5.png) to `Duplicate`:
+7. Put mouse on ![2-5](./media/2-5.png) to `Duplicate`:
 
 ![2-6](./media/2-6.png)
 
- Modify the x in ![2-5](./media/2-5.png) into “    Y:” and pin in ![a59](./media/a59.png) into `IO27`.
+8. Modify the x in ![2-5](./media/2-5.png) into “    Y:” and pin in ![a59](./media/a59.png) into `IO27`.
 
 ![2-7](./media/2-7.png)
 
- Put the mouse on ![2-9](./media/2-9.png) to `Duplicate`.
-. Modify the y in ![2-9](./media/2-9.png) into “   Z:” and replace ![a60](./media/a60.png) with ![a68](./media/a68.png) and set the pin to `IO18`
+9. Put the mouse on ![2-9](./media/2-9.png) to `Duplicate`.
+10. Modify the y in ![2-9](./media/2-9.png) into “   Z:” and replace ![a60](./media/a60.png) with ![a68](./media/a68.png) and set the pin to `IO18`
 
- In ![a1](./media/a1.png), add a ![a47](./media/a47.png) and set to 0.1 seconds.
+4. In ![a1](./media/a1.png), add a ![a47](./media/a47.png) and set to 0.1 seconds.
 
 **Complete code:**
 
@@ -189,36 +187,36 @@ Joystick controls the brightness of RGB LED matrix.
 
 **Expansion Code**
 
- In ![a1](./media/a1.png), add a ![a2](./media/a2.png).
- In ![a3](./media/a3.png), put ![a4](./media/a4.png) under ![a2](./media/a2.png).
- In ![a20](./media/a20.png), add three ![a21](./media/a21.png) and set name to `x,y,z` respectively, and put it under ![a4](./media/a4.png).
- In ![a1](./media/a1.png), put ![a5](./media/a5.png) under ![a57](./media/a57.png).
+1. In ![a1](./media/a1.png), add a ![a2](./media/a2.png).
+2. In ![a3](./media/a3.png), put ![a4](./media/a4.png) under ![a2](./media/a2.png).
+3. In ![a20](./media/a20.png), add three ![a21](./media/a21.png) and set name to `x,y,z` respectively, and put it under ![a4](./media/a4.png).
+4. In ![a1](./media/a1.png), put ![a5](./media/a5.png) under ![a57](./media/a57.png).
 
 ![2-11](./media/2-11.png)
 
- In ![a20](./media/a20.png), add three ![a22](./media/a22.png) and modify the name to `x,y,z`, put it into ![a5](./media/a5.png).
- In ![a7](./media/a7.png), drag ![a19](./media/a19.png) and set the pin to `IO26`, and put it into the last box of ![a61](./media/a61.png).
- In ![a7](./media/a7.png), drag ![a19](./media/a19.png) and set the pin to `IO27`, and put it into the last box of![a62](./media/a62.png).
- In ![a7](./media/a7.png), drag ![a18](./media/a18.png) and set the pin to `IO18`, and put it into the last box of![a63](./media/a63.png).
+5. In ![a20](./media/a20.png), add three ![a22](./media/a22.png) and modify the name to `x,y,z`, put it into ![a5](./media/a5.png).
+6. In ![a7](./media/a7.png), drag ![a19](./media/a19.png) and set the pin to `IO26`, and put it into the last box of ![a61](./media/a61.png).
+7. In ![a7](./media/a7.png), drag ![a19](./media/a19.png) and set the pin to `IO27`, and put it into the last box of![a62](./media/a62.png).
+8. In ![a7](./media/a7.png), drag ![a18](./media/a18.png) and set the pin to `IO18`, and put it into the last box of![a63](./media/a63.png).
 
 ![2-12](./media/2-12.png)
 
- In ![a1](./media/a1.png), put ![a42](./media/a42.png) under ![2-13](./media/2-13.png).
-. In ![a44](./media/a44.png), put ![a50](./media/a50.png) into the condition box of ![a42](./media/a42.png).
-. In ![a20](./media/a20.png), drag a ![a34](./media/a34.png) and name it to `x`, put it into the left box of ![a50](./media/a50.png) and modify the right box to `4000`.
-. In ![a3](./media/a3.png), drag ![a12](./media/a12.png) and click ![a13](./media/a13.png) to set the color to red ![a14](./media/a14.png). Click ![a15](./media/a15.png) to set it to ![a51](./media/a51.png). Put it into ![a42](./media/a42.png).
+9. In ![a1](./media/a1.png), put ![a42](./media/a42.png) under ![2-13](./media/2-13.png).
+10. In ![a44](./media/a44.png), put ![a50](./media/a50.png) into the condition box of ![a42](./media/a42.png).
+11. In ![a20](./media/a20.png), drag a ![a34](./media/a34.png) and name it to `x`, put it into the left box of ![a50](./media/a50.png) and modify the right box to `4000`.
+12. In ![a3](./media/a3.png), drag ![a12](./media/a12.png) and click ![a13](./media/a13.png) to set the color to red ![a14](./media/a14.png). Click ![a15](./media/a15.png) to set it to ![a51](./media/a51.png). Put it into ![a42](./media/a42.png).
 
 ![2-14](./media/2-14.png)
 
- Duplicate ![2-15](./media/2-15.png). Replace ![a50](./media/a50.png) with ![a56](./media/a45.png), and modify the number to `100`, and change the icon ![a51](./media/a51.png) to ![a52](./media/a52.png).
+9. Duplicate ![2-15](./media/2-15.png). Replace ![a50](./media/a50.png) with ![a56](./media/a45.png), and modify the number to `100`, and change the icon ![a51](./media/a51.png) to ![a52](./media/a52.png).
 
 ![2-16](./media/2-16.png)
 
-. Again, duplicate ![2-15](./media/2-15.png), and modify the two variable ![a53](./media/a53.png) to `y`, and set `y > 4000` to show ![a54](./media/a54.png) and `y < 100` to show ![a55](./media/a55.png).
+10. Again, duplicate ![2-15](./media/2-15.png), and modify the two variable ![a53](./media/a53.png) to `y`, and set `y > 4000` to show ![a54](./media/a54.png) and `y < 100` to show ![a55](./media/a55.png).
 
 ![2-17](./media/2-17.png)
 
-. Copy ![2-18](./media/2-18.png), replace ![a56](./media/a45.png) with ![a56](./media/a56.png), set the condition to `z = 1`, and set the matrix icon to ![a64](./media/a64.png).
+11. Copy ![2-18](./media/2-18.png), replace ![a56](./media/a45.png) with ![a56](./media/a56.png), set the condition to `z = 1`, and set the matrix icon to ![a64](./media/a64.png).
 
 ![2-19](./media/2-19.png)
 
@@ -268,7 +266,7 @@ The rotation Angle of the servo is controlled by adjusting the duty cycle of the
 
 **Test Code**
 
- Add servo library first. Click ![a28](./media/a28.png) and choose `Actuator`, find `Servo` and load it.
+1. Add servo library first. Click ![a28](./media/a28.png) and choose `Actuator`, find `Servo` and load it.
 
 ![a29](./media/a29.png)
 
@@ -276,11 +274,11 @@ After it is loaded, click ![a30](./media/a30.png).
 
 ![a31](./media/a31.png)
 
- In ![a1](./media/a1.png), add a ![a2](./media/a2.png).
- In ![a1](./media/a1.png), put ![a5](./media/a5.png) under ![a2](./media/a2.png).
- In ![a32](./media/a32.png), add a ![a33](./media/a33.png) and set the pin to `IO12`, angle to `0` and delay to `1000`(unit: ms). Put it into ![a5](./media/a5.png).
- In ![a32](./media/a32.png), add a ![a33](./media/a33.png) and set the pin to `IO12`, angle to `90` and delay to `1000`(unit: ms). Put it under the above block.
- In ![a32](./media/a32.png), add a ![a33](./media/a33.png) and set the pin to `IO12`, angle to `180` and delay to `1000`(unit: ms). Put it under the above block.
+2. In ![a1](./media/a1.png), add a ![a2](./media/a2.png).
+3. In ![a1](./media/a1.png), put ![a5](./media/a5.png) under ![a2](./media/a2.png).
+4. In ![a32](./media/a32.png), add a ![a33](./media/a33.png) and set the pin to `IO12`, angle to `0` and delay to `1000`(unit: ms). Put it into ![a5](./media/a5.png).
+5. In ![a32](./media/a32.png), add a ![a33](./media/a33.png) and set the pin to `IO12`, angle to `90` and delay to `1000`(unit: ms). Put it under the above block.
+6. In ![a32](./media/a32.png), add a ![a33](./media/a33.png) and set the pin to `IO12`, angle to `180` and delay to `1000`(unit: ms). Put it under the above block.
 
 **Complete code:**
 
@@ -296,32 +294,32 @@ Connect the joystick and servo accordingly. In this project, we adopt the joysti
 
 **Expansion Code**
 
- In ![a1](./media/a1.png), add a ![a2](./media/a2.png).
+1. In ![a1](./media/a1.png), add a ![a2](./media/a2.png).
 
    
 
- In ![a1](./media/a1.png), put ![a5](./media/a5.png) under ![a2](./media/a2.png).
+3. In ![a1](./media/a1.png), put ![a5](./media/a5.png) under ![a2](./media/a2.png).
 
 
 
- In ![a1](./media/a1.png), put ![a6](./media/a6.png) into ![a5](./media/a5.png).
- In ![a44](./media/a44.png), drag ![a50](./media/a50.png) and put it into the condition box of ![a6](./media/a6.png).
- In ![a7](./media/a7.png), add ![a19](./media/a19.png) and set the pin to `IO26`, and put it into the left box of ![a50](./media/a50.png), modify the right box into `4000`.
+5. In ![a1](./media/a1.png), put ![a6](./media/a6.png) into ![a5](./media/a5.png).
+6. In ![a44](./media/a44.png), drag ![a50](./media/a50.png) and put it into the condition box of ![a6](./media/a6.png).
+7. In ![a7](./media/a7.png), add ![a19](./media/a19.png) and set the pin to `IO26`, and put it into the left box of ![a50](./media/a50.png), modify the right box into `4000`.
 
 ![3-5](./media/3-5.png)
 
- In ![a32](./media/a32.png), drag ![a33](./media/a33.png) and set the pin to `IO12`, angle to `0` and delay to `100`(unit: ms), and put it into “then” of ![a6](./media/a6.png).
+8. In ![a32](./media/a32.png), drag ![a33](./media/a33.png) and set the pin to `IO12`, angle to `0` and delay to `100`(unit: ms), and put it into “then” of ![a6](./media/a6.png).
 
 ![3-6](./media/3-6.png)
 
- In ![a1](./media/a1.png), put another ![a6](./media/a6.png) into the “else” of ![a6](./media/a6.png).
+8. In ![a1](./media/a1.png), put another ![a6](./media/a6.png) into the “else” of ![a6](./media/a6.png).
 
 ![3-7](./media/3-7.png)
 
- In ![a44](./media/a44.png), put ![a45](./media/a45.png) into the condition box of the new ![a6](./media/a6.png).
-. In ![a7](./media/a7.png), drag ![a19](./media/a19.png) and set the pin to `IO26`, and put it into the left box of ![a45](./media/a45.png) and modify the right box into `100`.
-. In ![a32](./media/a32.png), drag ![a33](./media/a33.png) and set the pin to `IO12`, angle to `180` and delay to `100`(unit: ms), and put it under “then”.
-. In ![a32](./media/a32.png), drag ![a33](./media/a33.png) and set the pin to `IO12`, angle to `90` and delay to `100`(unit: ms), and put it under “else”.
+9. In ![a44](./media/a44.png), put ![a45](./media/a45.png) into the condition box of the new ![a6](./media/a6.png).
+10. In ![a7](./media/a7.png), drag ![a19](./media/a19.png) and set the pin to `IO26`, and put it into the left box of ![a45](./media/a45.png) and modify the right box into `100`.
+11. In ![a32](./media/a32.png), drag ![a33](./media/a33.png) and set the pin to `IO12`, angle to `180` and delay to `100`(unit: ms), and put it under “then”.
+12. In ![a32](./media/a32.png), drag ![a33](./media/a33.png) and set the pin to `IO12`, angle to `90` and delay to `100`(unit: ms), and put it under “else”.
 
 **Complete code:**
 
@@ -357,11 +355,11 @@ Let’s build an excavator with capacitive touch sensors, a joystick and servos.
 
 <p style="color:red;">ATTENTION PLEASE! Calibrate the servo angles first before installation! Otherwise servos may burn out!</p>
 
- Define three variables named `x`, `y`, `z` respectively. Define the initial state of the excavator: base(io12) is 90 degree, arm(io32) is 180 degree, and bucket(io14) is 180 degree.
+1. Define three variables named `x`, `y`, `z` respectively. Define the initial state of the excavator: base(io12) is 90 degree, arm(io32) is 180 degree, and bucket(io14) is 180 degree.
 
 ![4-1](./media/4-1.png)
 
- Read the servo angle values and assign them to variables `x`, `y`, `z`: 
+2. Read the servo angle values and assign them to variables `x`, `y`, `z`: 
 
 	`x`: arm servo angle (io32)
 
@@ -371,7 +369,7 @@ Let’s build an excavator with capacitive touch sensors, a joystick and servos.
 
 ![4-2](./media/4-2.png)
 
- Add a ![a42](./media/a42.png) to determine the analog value of joystick axis Y (io26). 
+3. Add a ![a42](./media/a42.png) to determine the analog value of joystick axis Y (io26). 
 
 	If Y < 100, `y` + 1 and assign `y` to base servo angle value (io12); add a delay of 5ms (servo will rotate slower). 
 
@@ -379,29 +377,29 @@ Let’s build an excavator with capacitive touch sensors, a joystick and servos.
 
 ![4-3](./media/4-3.png)
 
- Add a ![a42](./media/a42.png) to determine the analog value of joystick axis Y (io26). 
+4. Add a ![a42](./media/a42.png) to determine the analog value of joystick axis Y (io26). 
 
 	If Y > 4000, `y` - 1 and assign `y` to base servo angle value (io12); add a delay of 5ms (servo will rotate slower). Similarly, the minimum value is limited at 0 to -1.
 
 ![4-4](./media/4-4.png)
 
- Add a ![a42](./media/a42.png) to determine the analog value of joystick axis X (io27). 
+5. Add a ![a42](./media/a42.png) to determine the analog value of joystick axis X (io27). 
 
 	If X > 4000, `x` + 1 and assign `x` to arm servo angle value (io32); add a delay of 5ms.
 
 ![4-5](./media/4-5.png)
 
- Add a ![a42](./media/a42.png)to determine the analog value of joystick axis X (io27).
+6. Add a ![a42](./media/a42.png)to determine the analog value of joystick axis X (io27).
 
 	If X < 100, `x` - 1 and assign `x` to arm servo angle value (io32); add a delay of 5ms.
 
 ![4-6](./media/4-6.png)
 
- Add a ![a42](./media/a42.png) to determine the digital value of joystick axis Z (io19).
+7. Add a ![a42](./media/a42.png) to determine the digital value of joystick axis Z (io19).
 
 	If it equals 1, `z` + 1 and assign `z` to bucket servo angle value (io14); add a delay of 5ms.
 
- Add a ![a42](./media/a42.png) to determine the digital value of touch sensor (io23).
+8. Add a ![a42](./media/a42.png) to determine the digital value of touch sensor (io23).
 
    If the value is 1, `z` - 1 and assign `z` to bucket servo angle value (io14); add a delay of 5ms.
    
