@@ -66,21 +66,19 @@ If you are interested in our products, please contact to our sales representativ
 |  11  |                   ![img](./media/q25.jpg)                    |    F-F  DuPont wire 15CM    |  8   |
 |  12  |                    ![img](./media/q8.png)                    |    Phillips screwdriver     |  1   |
 |  13  |                   ![img](./media/q27.jpg)                    |           wrench            |  1   |
-|  14  | ![q9](./media/q9.png)![q9](./media/q9.png)![q9](./media/q9.png)![q9](./media/q9.png)![q9](./media/q9.png)![q9](./media/q9.png)![q9](./media/q9.png) |        M4x8MM screw         |  6   |
-|  15  | ![q10](./media/q10.png)![q10](./media/q10.png)![q10](./media/q10.png) |           M4 nut            |  6   |
+|  14  |          ![q9](./media/q9.png)![q9](./media/q9.png)          |        M4x8MM screw         |  14  |
+|  15  |        ![q10](./media/q10.png)![q10](./media/q10.png)        |           M4 nut            |  6   |
 |  16  |        ![q11](./media/q11.png)![q11](./media/q11.png)        |          M2.5 nut           |  2   |
 |  17  |        ![q12](./media/q12.png)![q12](./media/q12.png)        |       M2.5x8MM screw        |  2   |
 |  18  |                   ![img](./media/q28.jpg)                    |        copper pillar        |  4   |
 |  19  |                   ![q11](./media/q11.png)                    |           M3 nut            |  1   |
 |  20  | ![q13](./media/q13.png)![q13](./media/q13.png)![q13](./media/q13.png)![q13](./media/q13.png) |        M2x10MM screw        |  4   |
 |  21  | ![q11](./media/q11.png)![q11](./media/q11.png)![q11](./media/q11.png) |           M2 nut            |  3   |
-|  22  |        ![q14](./media/q14.png)![q14](./media/q14.png)        | M1.4x6MM self-tapping screw |  2   |
+|  22  | ![q14](./media/q14.png)![q14](./media/q14.png)![q14](./media/q14.png)![q14](./media/q14.png) | M1.2x5MM self-tapping screw |  4   |
 |  23  |                   ![img](./media/q29.jpg)                    |        M2*12MM screw        |  1   |
 |  24  |                   ![img](./media/q30.jpg)                    |        M3*10MM screw        |  2   |
 |  25  |                   ![img](./media/q31.jpg)                    |        M3*14MM screw        |  1   |
-|  26  |                   ![img](./media/q32.jpg)                    |        M4*6MM screw         |  8   |
-|  27  |                   ![img](./media/q33.jpg)                    | M1.2*4MM self-tapping screw |  2   |
-|  28  |                   ![img](./media/q34.jpg)                    |      M3 self lock nut       |  3   |
+|  26  |                   ![img](./media/q34.jpg)                    |      M3 self lock nut       |  3   |
 
 ------
 
@@ -134,6 +132,7 @@ With this kit, you can master basic sensor knowledge and have an excellent oppor
 
 
 ![img](./media/99_05.png)
+
 ![img](./media/99_80.png)
 
 ###   2. Assemble excavator side
@@ -448,69 +447,37 @@ After uploading the code, the servo rotates from 0 degree to 90 degree and to 18
 
 ![img](./media/99_61.png)
 
-
-
 ![img](./media/99_62.png)
-
-
 
 ![img](./media/99_63.png)
 
-
-
 ![img](./media/99_64.png)
 
-
-
 ![img](./media/99_65.png)
-
-
 
 ![img](./media/99_66.png)
 
 ![img](./media/99_68.png)
 
-
-
 ![img](./media/99_69.png)
 
-
-
 ![img](./media/99_70.png)
-
-
 
 ![img](./media/99_71.png)
 
 ### 8. Wiring
 
-
-
 ![img](./media/99_85.png)
-
-
-
-
 
 ![img](./media/99_86.png)
 
-
-
 ![img](./media/99_87.png)
-
-
 
 ![img](./media/99_88.png)
 
-
-
 ![img](./media/99_89.png)
 
-
-
 ![img](./media/99_90.png)
-
-
 
 ![img](./media/99_91.png)
 
